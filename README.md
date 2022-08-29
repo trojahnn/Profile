@@ -2,12 +2,10 @@
 
 
 [![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trojahn299/)](https://www.linkedin.com/in/trojahn299/)
-[![Mail Me!](https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthur.diegoo@hotmail.com)](mailto:arthur.diegoo@hotmail.com)
-[![DEV TO](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/arthurdiegoo)](https://dev.to/arthurdiegoo)
+[![Mail Me!](https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat-square&logo=Email&logoColor=white&link=mailto:henrique@trojahn.com.br)](mailto:henrique@trojahn.com.br)
+[![Mail Me!](https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat-square&logo=Instagram&logoColor=white&link=mailto:henrique@trojahn.com.br)](mailto:henrique@trojahn.com.br)
+
 ### Senior Software Developer
-
-<img src="https://i.ibb.co/QJZdmpv/XOsX.gif" width="100" height="100" />
-
 ## 🌀 Um pouco sobre mim:
 
 ```typescript
