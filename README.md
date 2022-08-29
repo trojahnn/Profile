@@ -12,6 +12,7 @@
 class Henrique extends Human {
   name: string;
   nationality: string;
+  birthDate: date;
   
   constructor() {
     super();
@@ -20,9 +21,7 @@ class Henrique extends Human {
     this.birthDate    = "1991-12-28";
   }
   
-  languages: Array<string> = ["Portuguese", "English", "Spanish"];
-  
-  technologies: {
+  skills: {
     JavaScript:         ["React.js", "Next.js", "jQuery"];
     APIs:               ["REST", "SOAP", "GraphQL", "XML", "FIX"];
     Events:             ["RabbitMQ", "PUB/SUB", "Redis", "SQS", "ZeroMQ", "Socket.IO"];
@@ -31,7 +30,6 @@ class Henrique extends Human {
   };
 }
 ```
-
 
 ---
 
