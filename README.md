@@ -2,8 +2,8 @@
 
 
 [![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trojahn299/)](https://www.linkedin.com/in/trojahn299/)
-[![Mail Me!](https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat-square&logo=Email&logoColor=white&link=mailto:henrique@trojahn.com.br)](mailto:henrique@trojahn.com.br)
-[![Mail Me!](https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat-square&logo=Instagram&logoColor=white&link=mailto:henrique@trojahn.com.br)](mailto:henrique@trojahn.com.br)
+[![Mail Me!](https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrique@trojahn.com.br)](mailto:henrique@trojahn.com.br)
+[![Instagram](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram/trojahn299/)]([https://www.linkedin.com/in/trojahn299/](https://www.instagram/trojahn299/))
 
 ### Senior Software Developer
 ## 🌀 Um pouco sobre mim:
