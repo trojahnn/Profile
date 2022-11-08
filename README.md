@@ -13,12 +13,14 @@ class Henrique extends Human {
   name: string;
   nationality: string;
   birthDate: date;
+  yarsExperience: integer;
   
   constructor() {
     super();
-    this.name         = "Luiz Henrique Trojahn";
-    this.nationality  = "Brazilian";
-    this.birthDate    = "1991-12-28";
+    this.name             = "Luiz Henrique Trojahn";
+    this.nationality      = "Brazilian";
+    this.birthDate        = "1991-12-28";
+    this.yarsExperience   = 16;
   }
   
   skills: {
@@ -29,6 +31,7 @@ class Henrique extends Human {
     CloudComputing:     ["AWS", "GCP", "Firebase", "Servless"];
     Databases:          ["MySQL", "PostgreSQL", "MongoDB", "Firestore"];
     Architectures       ["Model-view-controller pattern", "Layered pattern", "Client-server pattern"];
+    Tests               ["Jest", "Vitest"]
   };
 }
 ```
