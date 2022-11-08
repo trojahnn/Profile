@@ -22,11 +22,13 @@ class Henrique extends Human {
   }
   
   skills: {
-    JavaScript:         ["React.js", "Next.js", "jQuery"];
+    JavaScript:         ["React", "Next"];
     APIs:               ["REST", "SOAP", "GraphQL", "XML", "FIX"];
-    Events:             ["RabbitMQ", "PUB/SUB", "Redis", "SQS", "ZeroMQ", "Socket.IO"];
-    Design:             ["Bootstrap", "Material-UI"];
-    CloudComputing:     ["Serverless", "AWS", "GCP", "Firebase"];
+    Events:             ["RabbitMQ", "PUB/SUB", "SQS", "ZeroMQ", "Socket.IO"];
+    Design:             ["React", "Tailwind", "Bootstrap", "Material-UI"];
+    CloudComputing:     ["AWS", "GCP", "Firebase", "Servless"];
+    Databases:          ["MySQL", "PostgreSQL", "MongoDB", "Firestore"];
+    Architectures       ["Model-view-controller pattern", "Layered pattern", "Client-server pattern"];
   };
 }
 ```
